@@ -40,7 +40,7 @@ features.  Memkind interface allows to create and control file-backed memory
 13. [Disclaimer](#disclaimer)
 
 ## Interfaces
-The memkind library delivers two interfaces:
+The memkind library delivers three interfaces:
  * hbwmalloc.h - recommended for high-bandwidth memory use cases (stable)
  * memkind.h - generic interface for more complex use cases (stable)
 
